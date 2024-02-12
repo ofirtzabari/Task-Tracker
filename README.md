@@ -5,6 +5,7 @@ TaskTracker is a web application designed to help users keep track of their task
 ### Technologies Used
 
 This project is built using React with TypeScript.
+
 ![](https://badges.aleen42.com/src/react.svg)
 ![](https://badges.aleen42.com/src/typescript.svg)
 
