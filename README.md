@@ -20,12 +20,7 @@ To run this project, you need to have NPM installed.
 2. Navigate to the project directory.
 3. Open your terminal and run `npm start`.
 
-Runs the app in the development mode.
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
-
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
-
+Runs the app, open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
 #### Additional Resources
 
@@ -34,4 +29,10 @@ For further assistance and guidance, you can refer to resources available on You
 #### Support and Contribution
 
 If you'd like to contribute to the project or need support, feel free to send a direct message or open an issue.
+
+##### Last edit: 12/02/2024
+
+![main page]([image link](https://github.com/ofirtzabari/Task-Tracker/blob/master/pics/1.png)https://github.com/ofirtzabari/Task-Tracker/blob/master/pics/1.png)
+![enter task]([image link](https://github.com/ofirtzabari/Task-Tracker/blob/master/pics/1.png)https://github.com/ofirtzabari/Task-Tracker/blob/master/pics/2.png)
+![after adding](https://github.com/ofirtzabari/Task-Tracker/blob/master/pics/3.png)
 
