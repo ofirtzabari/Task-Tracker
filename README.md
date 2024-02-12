@@ -32,7 +32,13 @@ If you'd like to contribute to the project or need support, feel free to send a 
 
 ##### Last edit: 12/02/2024
 
+
+### Main Page
 ![main page](https://github.com/ofirtzabari/Task-Tracker/blob/master/pics/1.png)
+
+### Enter a Task
 ![enter task](https://github.com/ofirtzabari/Task-Tracker/blob/master/pics/2.png)
+
+### After Adding Tasks
 ![after adding](https://github.com/ofirtzabari/Task-Tracker/blob/master/pics/3.png)
 
